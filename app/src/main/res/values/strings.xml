@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Goa Tourism</string>
+    <string-array name="places">
+        <item>North Goa</item>
+        <item>South Goa</item>
+        <item>East Goa</item>
+        <item>West Goa</item>
+        <item>Central Goa</item>
+    </string-array>
+    <string-array name="hospitalnameit">
+        <item>Manipal Hospitals Goa</item>
+        <item>SMRC V. M. Salgaocar Hospital</item>
+        <item>Healthway Hospitals Goa</item>
+        <item>Pai Hospital</item>
+    </string-array>
+    <string-array name="busname">
+        <item>Kadamba Bus Station</item>
+        <item>Margao Bus Terminal</item>
+        <item>Sinquerim Bus Stop</item>
+        <item>Dhempe College Bus Stop</item>
+        <item>Mapusa Bus Stand</item>
+    </string-array>
+    <string-array name="hotelname">
+        <item>Holiday Inn Resort Goa, an IHG hotel</item>
+        <item>Antares Beach Resort</item>
+        <item>Fairfield by Marriott Goa Anjuna</item>
+        <item>BloomSuites, Calangute</item>
+        <item>Morpho Calangute Goa</item>
+        <item>White Woods Resort and Spa</item>
+        <item>The LaLiT Golf and Spa Resort Goa</item>
+        <item>Santana Beach Resort</item>
+    </string-array>
+    <string-array name="policename">
+        <item>Porvorim Police Station</item>
+        <item>Verna Police Station</item>
+        <item>Vasco Police Station</item>
+        <item>Old Goa Police Station</item>
+        <item>Margao Town Police Station</item>
+    </string-array>
+    <string-array name="restaurant">
+        <item>Jack Rabbit Slims</item>
+        <item>Barbeque Bay</item>
+        <item>Chique Shanti</item>
+        <item>Kava</item>
+        <item>Copperleaf</item>
+        <item>Treetop Tava</item>
+    </string-array>
+    <string-array name="tourist">
+        <item>Mangeshi Temple</item>
+        <item>Fontainhas</item>
+        <item>Reis Magos Fort</item>
+        <item>The Saturday Night Market</item>
+        <item>Baga Beach</item>
+        <item>Calangute Beach</item>
+    </string-array>
+    <string-array name="malls">
+        <item>Mall De Goa</item>
+        <item>Habitat (CIE)</item>
+        <item>Ella High Street Mall</item>
+        <item>Valanka Shopping Mall</item>
+        <item>Caculo Mall</item>
+        <item>1930 Vasco</item>
+        <item>Big G</item>
+    </string-array>
+</resources>
